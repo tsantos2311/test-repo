@@ -2,8 +2,8 @@ This is a test file where I can test git functions, command line functions and m
 
 ### to start with let's make an unordered list
 
-*abc
-*def
-*ghi
+* abc
+* def
+* ghi
 
 First time failure, trying once again. 
